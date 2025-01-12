@@ -1,9 +1,25 @@
-<h1 align="center">Hi 👋, I'm Akash singh</h1>
+## LearnEd (E-learning Website)
+An educational website for students and programmers 😊😊😊  
 
- This is [LearnEd](https://learn-ed-web.netlify.app/) an E-Learning Website.
- <p>E-Learning allows learners to quickly and more easily complete their training, resulting in improved performance and greater productivity. Learners appreciate that they can participate in training at their convenience.</p>
+![](pcView.png)
 
+Try this out::  
+https://roshan9419.github.io/LearnEd_E-learning_Website/
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+Our Educational Website would provide all the education related stuffs:  
+Notes, Sample Papers, Online Video Lectures and courses to crack competitive  
+exams like JEE-Main, JEE-Advanced, GATE, etc. Students can clear their doubts  
+by sending their questions to our website. We have added Quizzes for Students  
+who are willing to solve problems on different topics. We have also added  
+Interview questions for students who are preparing for placements.  
+  
+✔ We have made this website as responsive website so, students or users can  
+   easily access our website from  any device.  
+✔ Quiz Section is an interesting feature for students which provide them with  
+   lots of questions. They can view their scores easily and solutions of every questions.  
+✔ Projects – in this I have added a project section where students from schools and  
+   colleges can get projects for final year and for Class 12th Board Projects.  
+   
+It is completely responsive website, to provide smooth experience...😎  
 
+If you like my project, give it a star  😁😁😁
